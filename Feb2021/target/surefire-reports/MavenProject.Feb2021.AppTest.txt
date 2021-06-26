@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: MavenProject.Feb2021.AppTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.332 s - in MavenProject.Feb2021.AppTest

@@ -1,0 +1,52 @@
+9518955395 
+
+13 June 2021
+1)Peterson number i.e 145=1!+4!+5!;
+2) Java Program to copy all elements of one array into another array
+	means a[]={4,2,4,5};and b[]; so copy all the elements of a int b;
+3)Java Program to count the total number of characters in a string;
+============================================================================================================================
+WebElement Subjects = driver.findElement(By.xpath("//div[@class='subjects-auto-complete__value-container subjects-auto-complete__value-container--is-multi css-1hwfws3']"));
+		Actions action = new Actions(driver);
+		action.click(Subjects).build().perform();
+		action.sendKeys(Subjects, "Engl").build().perform();
+		WebElement English = driver.findElement(By.xpath("//*[contains(text(),'English')]"));
+		Thread.sleep(1000);
+		js.executeScript("arguments[0].click();", English);
+
+==========================================================================================================================
+14 June 2021
+1)Sunny Number in Java
+===>the number  'N' is Sunny if N+1 is perfect square;
+
+2)Program to find the frequency of each element in the array
+
+===>the each element in array how many times get repeated;
+========================================================================================================================
+15 June 2021
+1)Tech Number in Java
+==>a)number must have even digits b)do the sum of first half and second half of number ,then sum it and do the square 
+c)square and number must match then it called Tech number
+i.e 2025===(20+25)^2..this is Tech.use =====fhalf=num/(int)Math.pow(10,digit/2) and shalf=num%(int)Math.pow(10,digit/2)
+2)Java Program to count the total number of characters in a string
+==========================================================================================================================
+17/June/2021
+1)Fascinating number
+num;
+n2=num*2;
+n3=num*3;
+and String concatstr=num+""+n2+n3;
+and all the digits between 1 to 9 must be present non repeatedely.
+num=must be greater than the two digits
+
+======================================================================================================================
+20/06/2021
+1)String-3)No of punctuations in the String.
+2)Number-9)Neon Number;
+==========================================================================================================================
+24/06/2021
+1)Spy Number-10) The sum and product of the digits must be equal then we call the number is Spy.
+====================================================================================================================
+25/06/2021
+1)String-5>Java Program to determine whether two strings are the anagram
+===>if the characters in the string are equals then they are anagram;
